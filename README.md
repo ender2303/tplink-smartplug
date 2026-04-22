@@ -23,7 +23,7 @@ Instead of `null` we can also write `{}`. Commands can be nested, for example:
 A full list of commands is provided in
 [tplink-smarthome-commands.txt](tplink-smarthome-commands.txt).
 
-### Usage
+### Usage:
 
    `./tplink_smartplug.py -t <ip> [-c <cmd> || -j <json>]`
 
